@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;br.ucsal.HoraExtra.main().sc&apos; in &apos;br.ucsal.HoraExtra.main()&apos; to field&#x0D;&#x0A;- Original project: &apos;HoraExtra&apos;&#x0D;&#x0A;- Original element: &apos;br.ucsal.HoraExtra.main().sc&apos;&#x0D;&#x0A;- Field name: &apos;sc&apos;&#x0D;&#x0A;- Initialize field in method&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;sc&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;br.ucsal{HoraExtra.java" name="sc" selection="262 27" stamp="1506174020642" static="true" version="1.0" visibility="2"/>
+</session>

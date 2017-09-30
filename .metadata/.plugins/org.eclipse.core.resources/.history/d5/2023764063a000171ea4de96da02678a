@@ -1,0 +1,32 @@
+package br.ucsal;
+import java.util.Scanner;
+
+public class HoraExtra {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("digi um nome do funcionário ");
+		String nome;					
+		System.out.println("digite o Salario do funcio0nário: " + nome);
+		int salario;
+		System.out.println("Qual a quantidade de horas extras do funcio0nário " + nome);
+		int qtHorasExtra;
+		
+		int diaria = salario/20;
+		
+		System.out.println("A diaria seria de Rs: " + diaria );
+		
+		int horaExtra = diaria + 50%;
+		
+		int valorHora = qtHorasExtra * horaExtra;
+		
+		int salarioAtual = valorHora + salario;
+		
+		System.out.println("Valor de horas extras do funcio0nário: " + nome + "sera de: " + HoraExtra + " e seu salario ficara de :" + salarioAtual);
+		
+		
+	}
+
+}

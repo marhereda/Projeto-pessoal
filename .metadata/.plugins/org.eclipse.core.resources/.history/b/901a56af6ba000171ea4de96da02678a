@@ -1,0 +1,24 @@
+package ucsal.com;
+
+import java.util.Scanner;
+
+public class ParOuImpar {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("digite 4 valores 2 pares e 2 impares");
+		
+		int valor1 = sc.nextInt();
+		int valor2 = sc.nextInt();
+		int valor3 = sc.nextInt();
+		int valor4 = sc.nextInt();
+		
+		
+	
+						
+		}
+		
+
+	}
